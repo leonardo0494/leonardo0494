@@ -10,8 +10,6 @@ Nunca trabalhei, nem mesmo me interessei por outra área que não fosse a de TI.
 
 Se eu pudesse descrever minha carreira na TI, diria que, até o momento, tem sido apaixonante poder atuar como desenvolvedor. Sei que isso parece até uma frase pronta de IA, mas eu realmente amo isso aqui, e não é nenhum esforço para mim trabalhar nessa área.
 
----
-
 # 🧠 Minhas habilidades
 
 > [!NOTE]
